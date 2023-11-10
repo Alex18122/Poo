@@ -10,4 +10,18 @@ package entidad;
  */
 public class Persona {
     
+    public String nombre;
+    
+    public String sexo;
+    
+    public long id;
+    
+    public Persona(String nombre){
+    
+        
+        this.nombre = nombre;
+        
+    
+    }
+    
 }

@@ -4,6 +4,8 @@
  */
 package poo;
 
+import entidad.Persona;
+
 /**
  *
  * @author gbeni
@@ -12,7 +14,7 @@ public class Poo {
 
     public static void main(String[] args) {
         
-        
+        Persona primerpersona = new Persona("Gabriel");
         
     }
     
