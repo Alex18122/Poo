@@ -8,7 +8,7 @@ package entidad;
  *
  * @author gbeni
  */
-public class Persona {
+public class Persona{
     
     public String nombre;
     
