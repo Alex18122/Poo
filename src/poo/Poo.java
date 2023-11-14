@@ -14,7 +14,9 @@ public class Poo {
 
     public static void main(String[] args) {
         
-        Persona primerpersona = new Persona("Gabriel");
+        Persona primerPersona = new Persona("Gabriel");
+        
+        long a = primerPersona.getId();
         
     }
     
