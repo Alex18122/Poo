@@ -13,11 +13,11 @@ import entidad.Persona;
 public class Poo {
 
     public static void main(String[] args) {
-        
+
         Persona primerPersona = new Persona("Gabriel");
-        
+
         long a = primerPersona.getId();
-        
+
     }
-    
+
 }
